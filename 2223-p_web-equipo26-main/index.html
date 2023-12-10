@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lista</title>
+    <link rel="stylesheet" href="treats.css">
+
+</head>
+<body>
+    <h1>Añade tus elementos</h1>
+    <section>
+        <h2>Lista</h2>
+        <div>
+            <p>La siguiente lista contiene los elementos añadidos a la lista, 
+                estos están formados por una imagen y un texto, 
+                en el formulario se pueden crear más elementos</p>
+                <p id="lista">Historial de Envios: </p>
+            <ul>
+                <li>Elemento opcion 1 <img src="example.png" alt="ejemplo"></li>
+                <li>Elemento opcion 2 <img src="example.png" alt="ejemplo"></li>
+                <li>Elemento opcion 3 <img src="example.png" alt="ejemplo"></li>
+            </ul><br><br>
+            <label for="texto">Escriba el texto</label><br>
+            <input type="text" minlength="0" maxlength="20" id="texto" name="texto"><br><br>
+            <fieldset>
+                <legend>Elija la opcion:</legend>
+                <input type="radio" id="opcion1" name="opcion" value="opcion 1">
+                <label for="opcion1">opcion 1</label>
+                <input type="radio" id="opcion2" name="opcion" value="opcion 2">
+                <label for="opcion2">opcion 2</label>
+                <input type="radio" id="opcion3" name="opcion" value="opcion 3">
+                <label for="opcion3">opcion 3</label>
+            </fieldset><br><br>
+            <label for="fecha">Seleccione la fecha:</label>
+            <input type="date" id="fecha" name="fecha" step="1" min="2022-01-01" max="2022-12-31" value="2022-01-01"><br><br>
+            <label for="numbers">Seleccione el número:</label>
+            <input type="number" min="1" max="10" name="numbers" id="numbers">
+                
+            <button id="botón">Enviar</button>
+        
+        </div>
+    </section>
+    <footer>
+        <p>Created by Tomas, Brais and Pablo for IPM</p>
+    </footer>
+    <script src="scriptIPM.js"></script>
+</body>
+</html>
