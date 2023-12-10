@@ -1,0 +1,62 @@
+# Greek translations for  2223-p_desktop-equipo-26 package.
+# Copyright (C) 2022 THE  2223-p_desktop-equipo-26'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the  2223-p_desktop-equipo-26 package.
+# Tomas <tomas.villalba.ferreiro@udc.es>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version:  2223-p_desktop-equipo-26\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-28 23:07+0200\n"
+"PO-Revision-Date: 2022-10-28 23:45+0200\n"
+"Last-Translator: Tomas <tomas.villalba.ferreiro@udc.es>\n"
+"Language-Team: Greek\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: view.py:85 state.py:40
+msgid ""
+"\n"
+"There are connection problems"
+msgstr ""
+"\n"
+"Υπάρχουν προβλήματα σύνδεσης"
+#: view.py:86
+msgid ""
+"This application shows all the information available about the uses of the "
+"linux commands and their different options. \n"
+"You have to write the name of the command and be connected to the "
+"internet. \n"
+"If you need more information, go to https://cheat.sh"
+msgstr ""
+"Αυτή η εφαρμογή εμφανίζει όλες τις διαθέσιμες πληροφορίες σχετικά με τις χρήσεις του "
+"εντολές linux και οι διάφορες επιλογές τους. \n"
+"Πρέπει να γράψετε το όνομα της εντολής και να είστε συνδεδεμένοι στο διαδίκτυο\n"
+"Εάν χρειάζεστε περισσότερες πληροφορίες, μεταβείτε στο https://cheat.sh"
+
+#: view.py:94
+msgid "Help"
+msgstr "Βοήθεια"
+
+#: view.py:100
+msgid "Retry"
+msgstr "Ξαναδοκιμάσετε"
+
+#: view.py:107
+msgid "Beginning"
+msgstr "Αρχή"
+
+#: view.py:123
+msgid "HELP"
+msgstr "ΒΟΗΘΕΙΑ"
+
+#: view.py:194
+msgid "Counting ..."
+msgstr "Αρίθμηση"
+
+#: state.py:42
+msgid " is an unknown command"
+msgstr " είναι μια άγνωστη εντολή"

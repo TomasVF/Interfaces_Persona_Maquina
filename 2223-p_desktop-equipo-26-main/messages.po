@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-28 23:07+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: view.py:85 state.py:40
+msgid ""
+"\n"
+"There are connection problems"
+msgstr ""
+
+#: view.py:86
+msgid ""
+"This application shows all the information available about the uses of the "
+"linux commands and their different options. \n"
+"You have to write the name of the command and be connected to the "
+"internet. \n"
+"If you need more information, go to https://cheat.sh"
+msgstr ""
+
+#: view.py:94
+msgid "Help"
+msgstr ""
+
+#: view.py:100
+msgid "Retry"
+msgstr ""
+
+#: view.py:107
+msgid "Beginning"
+msgstr ""
+
+#: view.py:123
+msgid "HELP"
+msgstr ""
+
+#: view.py:194
+msgid "Counting ..."
+msgstr ""
+
+#: state.py:42
+msgid " is an unknown command"
+msgstr ""
